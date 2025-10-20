@@ -9,11 +9,11 @@
 - **Frontend:** React + TypeScript  
 - **Backend:** Node.js + Express + TypeScript  
 - **Banco de dados:** MongoDB  
-- **Estilo:** Tailwind CSS (opcional, se estiver usando)
+- **Estilo:** Tailwind CSS
 
 ## Funcionalidades
 
-- Cadastro e autenticação de usuários  
+- Cadastro e Login
 - Listagem de propriedades fictícias  
 - Busca por localização e datas  
 - Visualização de detalhes das casas  
