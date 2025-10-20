@@ -1,6 +1,6 @@
 # GeekBnB
 
-![Logo do GeekBnB](front-end/src/img/logo.png)
+![Logo do GeekBnB](front-end/src/img/Logo.png)
 
 **GeekBnB** é um projeto de estudo inspirado no Airbnb, focado no aluguel de casas de mundos de desenhos, filmes e séries. Desenvolvido com **MongoDB, Express, React, Node.js** e **TypeScript**, explora funcionalidades web modernas e boas práticas de programação. O projeto ainda está em desenvolvimento.
 
